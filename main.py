@@ -12,3 +12,4 @@ async def hello(ctx):
     await ctx.send('Hello!')
 
 bot.run('YOUR_DISCORD_BOT_TOKEN')
+
